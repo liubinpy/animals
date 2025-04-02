@@ -1,5 +1,5 @@
 package animals
 
-func Bark(){
+func Bark() string {
     return "旺旺旺"
 }
